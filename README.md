@@ -1,3 +1,6 @@
+Starting point:  
+https://github.com/GoogleCloudPlatform/kubernetes/blob/master/docs/overview.md
+
 Complete design documentation:  
 https://github.com/GoogleCloudPlatform/kubernetes/blob/master/DESIGN.md
 
