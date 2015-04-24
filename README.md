@@ -1,3 +1,6 @@
+Complete design documentation:  
+https://github.com/GoogleCloudPlatform/kubernetes/blob/master/DESIGN.md
+
 #Kubernetes
 Kubernetes is an open source system for managing containerized applications
 across multiple hosts, providing basic mechanisms for deployment, maintenance,
